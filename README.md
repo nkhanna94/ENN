@@ -18,7 +18,8 @@ For our data visualization, we chose to visualize which demographics are most im
 ## Our Questions
 
 1. **Are there any specific demographic groups (gender/sex/age) that are most affected by specific types of drug overdoses?**
-2. **Were there any major public health policies or interventions introduced in the time period of the data?**
+2. **Are opioids more lethal to certain age groups or races?**
+3. **Were there any major public health policies or interventions introduced in the time period of the data?**
 
 ---
 
@@ -74,7 +75,7 @@ From this visualization, we assessed the difference in estimates between white m
 #### American Indian vs. Overdose Deaths (per 100,000)
 From this visualization, we found that compared to white males, there is a higher proportion of drug overdoses other than opioids among American Indian males. There is also a higher number of overdoses for methadone and heroin.
 
-### Question 2: Are there any specific demographic groups (gender/sex/age) that are most affected by opioid overdoses?
+### Question 2: Are opioids more lethal to certain age groups or races?
 
 #### Opioid Overdose Death Rates by Age Group
 From this visualization, we determined that:
